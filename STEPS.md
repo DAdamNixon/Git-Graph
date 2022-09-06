@@ -32,3 +32,5 @@ git merge bug-fix-experimental
 git add STEPS.md
 git commit -m "Commit 11!"
 git push
+git add STEPS.md
+git commit -m "Commit 12"
