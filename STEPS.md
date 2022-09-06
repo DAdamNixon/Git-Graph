@@ -45,3 +45,8 @@ git merge bug-fix
 git add STEPS.md
 git commit -m "Commit 13"
 git push
+git add dank-meme.webp
+git add README.md
+git add STEPS.md
+git commit -m "Commit 14!"
+git push
