@@ -7,3 +7,5 @@ git commit -m "Commit 7!"
 git push --set-upstream origin bug-fix-experimental
 git add STEPS.md
 git commit -m "Commit 8!"
+git add STEPS.md
+git commit -m "Commit 9!"
