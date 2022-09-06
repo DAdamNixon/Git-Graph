@@ -16,3 +16,5 @@ git add STEPS.md
 git commit -m "Commit 4!"
 git push
 git merge main ---- this introduced a merge conflict
+git add STEPS.md
+git commit -m "Commit 6"
